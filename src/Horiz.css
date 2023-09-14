@@ -1,0 +1,13 @@
+/* * {
+  box-sizing: border-box;
+  
+} */
+
+.scroller {
+  display: flex;
+  flex-direction: row;
+}
+
+.item {
+  margin: 10px;
+}
